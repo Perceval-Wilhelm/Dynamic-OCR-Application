@@ -64,36 +64,9 @@ The Dynamic OCR project: A program that reads information of any kind of image.
 '''
 streamlit run dynamic_ocr_app.py
 '''
-#### In case: [Errno 98] Address already in use
-1. Check uvicorn PID runing: 
-    '''
-    lsof -i :8000
-    '''
-
-
-2. Kill PID runing 
-    '''
-    kill -9 <PID>
-    '''
 
 ## BACKLOG
 ## FURTHER IMPROVEMENT
 ## Deployment
 ### Production
-- Step 1:
-```
-    DOCKER_BUILDKIT=1 docker-compose build
-```
-- Step 2:
-```
-    docker-compose up -d
-```
-### QA
-- Step 1:
-```
-    DOCKER_BUILDKIT=1 docker-compose -f docker-compose-qa build
-```
-- Step 2:
-```
-    docker-compose -f docker-compose-qa up -d
-```
+Packaging to Docker
