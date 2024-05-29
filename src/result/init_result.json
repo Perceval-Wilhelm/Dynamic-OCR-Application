@@ -1,0 +1,14 @@
+{
+    "medicine": [],
+    "date_create": null,
+    "follow_up_schedule": {
+        "date": null,
+        "time": null,
+        "note": null
+    },
+    "user_info": {
+        "name": null,
+        "age": null,
+        "gender": null
+    }
+}

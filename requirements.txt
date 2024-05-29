@@ -1,0 +1,50 @@
+maturin
+# opencv-python<=4.6.0.66
+# opencv-contrib-python<=4.6.0.66
+opencv-python
+opencv-contrib-python
+shapely
+lmdb
+pyclipper
+scikit-learn
+trash-cli
+fastapi
+python-multipart
+# CPU
+# paddlepaddle==2.6.0 -i https://mirror.baidu.com/pypi/simple
+# CUDA 11.8
+# paddlepaddle-gpu==2.4.2 -f https://www.paddlepaddle.org.cn/whl/linux/mkl/avx/stable.html
+paddlepaddle-gpu==2.6.0 -i https://mirror.baidu.com/pypi/simple
+kombu
+minio
+# protobuf<=3.20.1  
+# imutils==0.5.4
+protobuf  
+imutils
+python-dotenv
+tqdm
+Polygon3
+Unidecode
+thefuzz
+datefinder
+lanms_neo
+python-dotenv
+scikit-image
+imgaug
+openai
+underthesea
+numpy
+visualdl
+rapidfuzz
+cython
+lxml
+premailer
+openpyxl
+attrdict
+# PyMuPDF<1.21.0
+# Pillow>=10.0.0
+PyMuPDF
+Pillow
+pyyaml
+streamlit
+streamlit-drawable-canvas

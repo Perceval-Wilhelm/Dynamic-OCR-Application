@@ -1,0 +1,632 @@
+{
+    "tax_code_1": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "M\u00e3 s\u1ed1 thu\u1ebf Tax code",
+        "key_type": "text",
+        "key_coordinates": [
+            653,
+            293
+        ],
+        "key_size": [
+            421,
+            70
+        ],
+        "ox_key": [
+            658,
+            293
+        ],
+        "value": "0100971460001",
+        "value_type": "text",
+        "value_coordinates": [
+            1074,
+            293
+        ],
+        "value_size": [
+            310,
+            70
+        ],
+        "label": "tax_code_1",
+        "magnitude_root_key": 715.7220130749089,
+        "magnitude_root_value": 1113.2497473613007,
+        "magnitude_key_value": 421.0,
+        "angle_degrees_key": 24.16569346913548,
+        "angle_degrees_value": 15.259632669763372,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "tel": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "\u0110i\u1ec7n tho\u1ea1i Tel",
+        "key_type": "text",
+        "key_coordinates": [
+            657,
+            496
+        ],
+        "key_size": [
+            310,
+            62
+        ],
+        "ox_key": [
+            662,
+            496
+        ],
+        "value": "8483820 1191",
+        "value_type": "text",
+        "value_coordinates": [
+            967,
+            491
+        ],
+        "value_size": [
+            285,
+            70
+        ],
+        "label": "tel",
+        "magnitude_root_key": 823.2041059178458,
+        "magnitude_root_value": 1084.5137159114217,
+        "magnitude_key_value": 310.0403199585499,
+        "angle_degrees_key": 37.05086039048525,
+        "angle_degrees_value": 26.91945354075231,
+        "cosine_angle_key_value": 0.9998699525321246,
+        "sine_angle_key_value": 0.016126934718255805
+    },
+    "fax": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Fax",
+        "key_type": "text",
+        "key_coordinates": [
+            1475,
+            500
+        ],
+        "key_size": [
+            103,
+            57
+        ],
+        "ox_key": [
+            1480,
+            500
+        ],
+        "value": "84838201192",
+        "value_type": "text",
+        "value_coordinates": [
+            1578,
+            496
+        ],
+        "value_size": [
+            276,
+            62
+        ],
+        "label": "fax",
+        "magnitude_root_key": 1557.441812717252,
+        "magnitude_root_value": 1654.116078151712,
+        "magnitude_key_value": 103.07764064044152,
+        "angle_degrees_key": 18.72578784527257,
+        "angle_degrees_value": 17.449076693377204,
+        "cosine_angle_key_value": 0.9992467751496918,
+        "sine_angle_key_value": 0.03880570000581274
+    },
+    "serial": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "K\u00fd hi\u1ec7u serial",
+        "key_type": "text",
+        "key_coordinates": [
+            1657,
+            876
+        ],
+        "key_size": [
+            330,
+            74
+        ],
+        "ox_key": [
+            1662,
+            876
+        ],
+        "value": "C 3 DD",
+        "value_type": "text",
+        "value_coordinates": [
+            1988,
+            876
+        ],
+        "value_size": [
+            239,
+            74
+        ],
+        "label": "serial",
+        "magnitude_root_key": 1874.3065384296135,
+        "magnitude_root_value": 2172.44562647722,
+        "magnitude_key_value": 331.0,
+        "angle_degrees_key": 27.863897629741075,
+        "angle_degrees_value": 23.78039419568911,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "Num": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "S\u1ed1 No",
+        "key_type": "text",
+        "key_coordinates": [
+            1657,
+            946
+        ],
+        "key_size": [
+            181,
+            82
+        ],
+        "ox_key": [
+            1662,
+            946
+        ],
+        "value": "286",
+        "value_type": "number",
+        "value_coordinates": [
+            1839,
+            946
+        ],
+        "value_size": [
+            103,
+            82
+        ],
+        "label": "Num",
+        "magnitude_root_key": 1908.0264673216668,
+        "magnitude_root_value": 2068.0514983916623,
+        "magnitude_key_value": 182.0,
+        "angle_degrees_key": 29.72253359755683,
+        "angle_degrees_value": 27.221743076413883,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "date": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ng\u00e0y date",
+        "key_type": "text",
+        "key_coordinates": [
+            694,
+            975
+        ],
+        "key_size": [
+            243,
+            78
+        ],
+        "ox_key": [
+            699,
+            975
+        ],
+        "value": "Ng\u00e0y date 31 th\u00e1ng month 01 n\u0103m year 2023",
+        "value_type": "text",
+        "value_coordinates": [
+            690,
+            967
+        ],
+        "value_size": [
+            950,
+            86
+        ],
+        "label": "date",
+        "magnitude_root_key": 1196.7710725113639,
+        "magnitude_root_value": 1187.9347625185485,
+        "magnitude_key_value": 8.94427190999916,
+        "angle_degrees_key": 54.5569338997608,
+        "angle_degrees_value": 54.49035615212039,
+        "cosine_angle_key_value": -0.4472135954999579,
+        "sine_angle_key_value": 0.8944271909999159
+    },
+    "code_tax": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "M\u00e3 c\u01a1 quan thu\u1ebf c\u1ea5p",
+        "key_type": "text",
+        "key_coordinates": [
+            690,
+            1045
+        ],
+        "key_size": [
+            400,
+            86
+        ],
+        "ox_key": [
+            695,
+            1045
+        ],
+        "value": "00 F 39 AF 48 A 2 BA 42 T 728 FBF  34",
+        "value_type": "text",
+        "value_coordinates": [
+            1091,
+            1041
+        ],
+        "value_size": [
+            930,
+            90
+        ],
+        "label": "code_tax",
+        "magnitude_root_key": 1252.2479786368194,
+        "magnitude_root_value": 1507.9661799921112,
+        "magnitude_key_value": 401.0199496284443,
+        "angle_degrees_key": 56.5637327166065,
+        "angle_degrees_value": 43.65653661629153,
+        "cosine_angle_key_value": 0.9999502527780407,
+        "sine_angle_key_value": 0.009974566112493494
+    },
+    "name": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "T\u00ean \u0111\u01a1n v\u1ecb Company name",
+        "key_type": "text",
+        "key_coordinates": [
+            169,
+            1198
+        ],
+        "key_size": [
+            524,
+            82
+        ],
+        "ox_key": [
+            174,
+            1198
+        ],
+        "value": "FP\u0110H IDEMITSU GAS PRODUCTION  VIETNAM  CO   LTD T\u1ea0I TP  H\u1ed4 CH\u00cd MINH",
+        "value_type": "text",
+        "value_coordinates": [
+            686,
+            1194
+        ],
+        "value_size": [
+            1636,
+            90
+        ],
+        "label": "name",
+        "magnitude_root_key": 1209.861562328517,
+        "magnitude_root_value": 1377.0373996373519,
+        "magnitude_key_value": 517.0154736562533,
+        "angle_degrees_key": 81.97035770569013,
+        "angle_degrees_value": 60.12093679494196,
+        "cosine_angle_key_value": 0.9999700711931425,
+        "sine_angle_key_value": 0.007736712349666159
+    },
+    "address": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "\u0110\u1ecba ch\u1ec9 Address",
+        "key_type": "text",
+        "key_coordinates": [
+            173,
+            1268
+        ],
+        "key_size": [
+            326,
+            78
+        ],
+        "ox_key": [
+            178,
+            1268
+        ],
+        "value": "L\u1ea7u 28  T\u1ecfi i\u00e0 Vieoxeban s\u1ed1 C\u00f4ng Trn\u01a1\u1edfng M\u1ebf\u00ea Linh Phs\u00e0ng B\u1ea7n Ngh\u1ebf Qu\u1eb7n L  Th\u00e1ch pi\u1ed5 H\u1ed5 Ch\u00ed",
+        "value_type": "text",
+        "value_coordinates": [
+            500,
+            1268
+        ],
+        "value_size": [
+            1822,
+            78
+        ],
+        "label": "address",
+        "magnitude_root_key": 1279.7472406690315,
+        "magnitude_root_value": 1363.0201759328436,
+        "magnitude_key_value": 327.0,
+        "angle_degrees_key": 82.23080119752268,
+        "angle_degrees_value": 68.47960298277947,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "tax_code_2": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "M\u00e3 s\u1ed1 thu\u1ebf",
+        "key_type": "text",
+        "key_coordinates": [
+            173,
+            1401
+        ],
+        "key_size": [
+            239,
+            74
+        ],
+        "ox_key": [
+            178,
+            1401
+        ],
+        "value": "0303616990",
+        "value_type": "number",
+        "value_coordinates": [
+            413,
+            1401
+        ],
+        "value_size": [
+            239,
+            74
+        ],
+        "label": "tax_code_2",
+        "magnitude_root_key": 1411.6408891782642,
+        "magnitude_root_value": 1460.6060386017853,
+        "magnitude_key_value": 240.0,
+        "angle_degrees_key": 82.96056730168327,
+        "angle_degrees_value": 73.57503997832787,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "pay_med": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "H\u00ecnh th\u1ee9c thanh to\u00e1n",
+        "key_type": "text",
+        "key_coordinates": [
+            888,
+            1401
+        ],
+        "key_size": [
+            417,
+            74
+        ],
+        "ox_key": [
+            893,
+            1401
+        ],
+        "value": "Chuy\u1ec1n kho\u1ea3n",
+        "value_type": "text",
+        "value_coordinates": [
+            1306,
+            1401
+        ],
+        "value_size": [
+            256,
+            74
+        ],
+        "label": "pay_med",
+        "magnitude_root_key": 1658.7178783626828,
+        "magnitude_root_value": 1915.3164229442611,
+        "magnitude_key_value": 418.0,
+        "angle_degrees_key": 57.63212915821314,
+        "angle_degrees_value": 47.00992468589567,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "VAT": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Thu\u1ebf su\u1ea5t GTGT VAT rate",
+        "key_type": "text",
+        "key_coordinates": [
+            181,
+            2322
+        ],
+        "key_size": [
+            483,
+            70
+        ],
+        "ox_key": [
+            186,
+            2322
+        ],
+        "value": "10 ",
+        "value_type": "text",
+        "value_coordinates": [
+            665,
+            2318
+        ],
+        "value_size": [
+            103,
+            74
+        ],
+        "label": "VAT",
+        "magnitude_root_key": 2329.043795208669,
+        "magnitude_root_value": 2411.5034729396516,
+        "magnitude_key_value": 484.0165286433925,
+        "angle_degrees_key": 85.5428045555024,
+        "angle_degrees_value": 73.99259570390015,
+        "cosine_angle_key_value": 0.9999658510765349,
+        "sine_angle_key_value": 0.00826418058740444
+    },
+    "total_amount": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "C\u1ed9ng ti\u1ec1n h\u00e0ng Total amount",
+        "key_type": "text",
+        "key_coordinates": [
+            1355,
+            2240
+        ],
+        "key_size": [
+            558,
+            78
+        ],
+        "ox_key": [
+            1360,
+            2240
+        ],
+        "value": "126000000",
+        "value_type": "text",
+        "value_coordinates": [
+            2046,
+            2240
+        ],
+        "value_size": [
+            276,
+            78
+        ],
+        "label": "total_amount",
+        "magnitude_root_key": 2617.9428947171477,
+        "magnitude_root_value": 3033.7626802372,
+        "magnitude_key_value": 691.0,
+        "angle_degrees_key": 58.82980689818863,
+        "angle_degrees_value": 47.59164710376815,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "VAT_money": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ti\u1ec1n thu\u1ebf GTGT VAT",
+        "key_type": "text",
+        "key_coordinates": [
+            1471,
+            2310
+        ],
+        "key_size": [
+            446,
+            82
+        ],
+        "ox_key": [
+            1476,
+            2310
+        ],
+        "value": "12600000",
+        "value_type": "text",
+        "value_coordinates": [
+            2041,
+            2310
+        ],
+        "value_size": [
+            285,
+            78
+        ],
+        "label": "VAT_money",
+        "magnitude_root_key": 2738.6020156276813,
+        "magnitude_root_value": 3082.495904295738,
+        "magnitude_key_value": 570.0,
+        "angle_degrees_key": 57.511157008876886,
+        "angle_degrees_value": 48.537801052666175,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "total_pay": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "T\u1ed5ng c\u1ed9ng ti\u1ec1n thanh to\u00e1n Total payment",
+        "key_type": "text",
+        "key_coordinates": [
+            1128,
+            2393
+        ],
+        "key_size": [
+            789,
+            78
+        ],
+        "ox_key": [
+            1133,
+            2393
+        ],
+        "value": "138600000",
+        "value_type": "text",
+        "value_coordinates": [
+            2041,
+            2389
+        ],
+        "value_size": [
+            285,
+            82
+        ],
+        "label": "total_pay",
+        "magnitude_root_key": 2645.5307596019366,
+        "magnitude_root_value": 3142.1333517214066,
+        "magnitude_key_value": 913.0087622799684,
+        "angle_degrees_key": 64.76198942783527,
+        "angle_degrees_value": 49.491663319520136,
+        "cosine_angle_key_value": 0.999990402852272,
+        "sine_angle_key_value": 0.004381118961033277
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "age": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Tu\u1ed5i ",
+        "key_type": "text",
+        "key_coordinates": [
+            1236,
+            478
+        ],
+        "key_size": [
+            113,
+            65
+        ],
+        "ox_key": [
+            1241,
+            478
+        ],
+        "value": "7",
+        "value_type": "number",
+        "value_coordinates": [
+            1350,
+            481
+        ],
+        "value_size": [
+            61,
+            65
+        ],
+        "label": "age",
+        "magnitude_root_key": 1325.209417412961,
+        "magnitude_root_value": 1433.1297917495122,
+        "magnitude_key_value": 114.03946685248927,
+        "angle_degrees_key": 21.14305086181653,
+        "angle_degrees_value": 19.610795083640514,
+        "cosine_angle_key_value": 0.9996539193528472,
+        "sine_angle_key_value": 0.02630668208823091
+    },
+    "checkin": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "V\u00e0o vi\u00ean l\u00fac",
+        "key_type": "text",
+        "key_coordinates": [
+            156,
+            865
+        ],
+        "key_size": [
+            260,
+            71
+        ],
+        "ox_key": [
+            161,
+            865
+        ],
+        "value": "10 Gi\u1edd 19 Ph\u00fat  Ng\u00e0y 20 th\u00e1ng 06 n\u0103m 2022",
+        "value_type": "text",
+        "value_coordinates": [
+            445,
+            865
+        ],
+        "value_size": [
+            787,
+            71
+        ],
+        "label": "checkin",
+        "magnitude_root_key": 878.9544925648881,
+        "magnitude_root_value": 972.753822917186,
+        "magnitude_key_value": 289.0,
+        "angle_degrees_key": 79.77677970102171,
+        "angle_degrees_value": 62.77640564535841,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "checkout": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ra vi\u00ean l\u00fac",
+        "key_type": "text",
+        "key_coordinates": [
+            159,
+            946
+        ],
+        "key_size": [
+            247,
+            65
+        ],
+        "ox_key": [
+            164,
+            946
+        ],
+        "value": "11 Gi\u1edd 00 Ph\u00fat  Ng\u00e0y 28 th\u00e1ng 06 n\u0103m 2022",
+        "value_type": "text",
+        "value_coordinates": [
+            435,
+            946
+        ],
+        "value_size": [
+            806,
+            65
+        ],
+        "label": "checkout",
+        "magnitude_root_key": 959.2689925146127,
+        "magnitude_root_value": 1041.2209179612173,
+        "magnitude_key_value": 276.0,
+        "angle_degrees_key": 80.45912321632716,
+        "angle_degrees_value": 65.30556848496103,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    },
+    "diagnosis": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ch\u1ea7n \u0111o\u1ea3n",
+        "key_type": "text",
+        "key_coordinates": [
+            162,
+            1028
+        ],
+        "key_size": [
+            211,
+            74
+        ],
+        "ox_key": [
+            167,
+            1028
+        ],
+        "value": "\u0110au \u0111\u00e2u m\u1ea1n tinh  Ch\u00f3ng m\u1eb7t ngo\u1ea1i bi\u00ean  R\u00f4i loan lipid m\u00e1u  R\u00f4i lo\u1ea1n",
+        "value_type": "text",
+        "value_coordinates": [
+            387,
+            1028
+        ],
+        "value_size": [
+            1278,
+            74
+        ],
+        "label": "diagnosis",
+        "magnitude_root_key": 1040.6863120076098,
+        "magnitude_root_value": 1098.4320643535493,
+        "magnitude_key_value": 225.0,
+        "angle_degrees_key": 81.04454666249315,
+        "angle_degrees_value": 69.37069436704803,
+        "cosine_angle_key_value": 1.0,
+        "sine_angle_key_value": 0.0
+    }
+}

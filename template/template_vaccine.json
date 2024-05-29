@@ -1,0 +1,128 @@
+{
+    "name": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "H\u1ecd v\u00e0 t\u00ean ",
+        "key_type": "text",
+        "key_coordinates": [
+            580,
+            549
+        ],
+        "key_size": [
+            143,
+            54
+        ],
+        "ox_key": [
+            585,
+            549
+        ],
+        "value": "B\u00f9i Qu\u1ed1c Th\u1ecbnh",
+        "value_type": "text",
+        "value_coordinates": [
+            778,
+            532
+        ],
+        "value_size": [
+            310,
+            75
+        ],
+        "label": "name",
+        "magnitude_root_key": 798.6244424008071,
+        "magnitude_root_value": 942.5009283815057,
+        "magnitude_key_value": 198.72845795205075,
+        "angle_degrees_key": 43.427171839642746,
+        "angle_degrees_value": 34.364501112990574,
+        "cosine_angle_key_value": 0.996334405451752,
+        "sine_angle_key_value": 0.08554386309434388
+    },
+    "phone": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "S\u1ed1 \u0111i\u1ec7n tho\u1ea1i ",
+        "key_type": "text",
+        "key_coordinates": [
+            563,
+            682
+        ],
+        "key_size": [
+            187,
+            58
+        ],
+        "ox_key": [
+            568,
+            682
+        ],
+        "value": "0931988745",
+        "value_type": "text",
+        "value_coordinates": [
+            798,
+            675
+        ],
+        "value_size": [
+            242,
+            64
+        ],
+        "label": "phone",
+        "magnitude_root_key": 884.3602207245642,
+        "magnitude_root_value": 1045.1932835605096,
+        "magnitude_key_value": 235.10423220350586,
+        "angle_degrees_key": 50.459877268302826,
+        "angle_degrees_value": 40.22670117477684,
+        "cosine_angle_key_value": 0.9995566553501443,
+        "sine_angle_key_value": 0.029774028031707298
+    },
+    "address": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "\u0110\u1ecba ch\u1ec9 ",
+        "key_type": "text",
+        "key_coordinates": [
+            549,
+            730
+        ],
+        "key_size": [
+            126,
+            61
+        ],
+        "ox_key": [
+            554,
+            730
+        ],
+        "value": "3  \u0111\u0111\u1edfn  ",
+        "value_type": "text",
+        "value_coordinates": [
+            696,
+            727
+        ],
+        "value_size": [
+            1157,
+            54
+        ],
+        "label": "address",
+        "magnitude_root_key": 913.4007882632902,
+        "magnitude_root_value": 1006.4516878618665,
+        "magnitude_key_value": 147.03060905811415,
+        "angle_degrees_key": 53.05482876552147,
+        "angle_degrees_value": 46.2479889417278,
+        "cosine_angle_key_value": 0.9997918184634463,
+        "sine_angle_key_value": 0.020403914662514136
+    }
+}

@@ -1,0 +1,170 @@
+{
+    "age": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Tu\u1ed5i ",
+        "key_type": "text",
+        "key_coordinates": [
+            1116,
+            233
+        ],
+        "key_size": [
+            71,
+            42
+        ],
+        "ox_key": [
+            1121,
+            233
+        ],
+        "value": "26",
+        "value_type": "number",
+        "value_coordinates": [
+            1191,
+            230
+        ],
+        "value_size": [
+            45,
+            48
+        ],
+        "label": "age",
+        "magnitude_root_key": 1140.0635947174176,
+        "magnitude_root_value": 1213.0049464037647,
+        "magnitude_key_value": 75.05997601918082,
+        "angle_degrees_key": 11.792889071986613,
+        "angle_degrees_value": 10.930127696037102,
+        "cosine_angle_key_value": 0.9992009587217895,
+        "sine_angle_key_value": 0.03996803834886975
+    },
+    "checkin": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "V\u00e0o vi\u1ec7n l\u00fac ",
+        "key_type": "text",
+        "key_coordinates": [
+            133,
+            399
+        ],
+        "key_size": [
+            188,
+            45
+        ],
+        "ox_key": [
+            138,
+            399
+        ],
+        "value": "10 gi\u1edd 23 ph\u00fat  Ng\u00e0y 20 th\u00e1ng 06 n\u0103m 2022",
+        "value_type": "text",
+        "value_coordinates": [
+            350,
+            392
+        ],
+        "value_size": [
+            512,
+            45
+        ],
+        "label": "checkin",
+        "magnitude_root_key": 420.58292880239446,
+        "magnitude_root_value": 525.5130826154568,
+        "magnitude_key_value": 217.1128738697915,
+        "angle_degrees_key": 71.56505117707799,
+        "angle_degrees_value": 48.23970029610213,
+        "cosine_angle_key_value": 0.9994801143396995,
+        "sine_angle_key_value": 0.03224129401095934
+    },
+    "checkout": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ra vi\u1ec7n l\u00fac ",
+        "key_type": "text",
+        "key_coordinates": [
+            136,
+            448
+        ],
+        "key_size": [
+            181,
+            38
+        ],
+        "ox_key": [
+            141,
+            448
+        ],
+        "value": "09 gi\u1edd 15 ph\u00fat  Ng\u00e0y 27 th\u00e1ng 06 n\u0103m 2022",
+        "value_type": "text",
+        "value_coordinates": [
+            353,
+            441
+        ],
+        "value_size": [
+            509,
+            42
+        ],
+        "label": "checkout",
+        "magnitude_root_key": 468.187996428785,
+        "magnitude_root_value": 564.8805183399406,
+        "magnitude_key_value": 217.1128738697915,
+        "angle_degrees_key": 73.11320887605596,
+        "angle_degrees_value": 51.324351055267606,
+        "cosine_angle_key_value": 0.9994801143396995,
+        "sine_angle_key_value": 0.03224129401095934
+    },
+    "diagnosis": {
+        "root": [
+            0,
+            0
+        ],
+        "ox": [
+            5,
+            0
+        ],
+        "key": "Ch\u1ea9n \u0111o\u00e1n ",
+        "key_type": "text",
+        "key_coordinates": [
+            142,
+            487
+        ],
+        "key_size": [
+            146,
+            45
+        ],
+        "ox_key": [
+            147,
+            487
+        ],
+        "value": "D\u00e3n t\u0129nh m\u1ea1ch th\u1eebng tinh hai b\u00ean",
+        "value_type": "text",
+        "value_coordinates": [
+            318,
+            483
+        ],
+        "value_size": [
+            399,
+            38
+        ],
+        "label": "diagnosis",
+        "magnitude_root_key": 507.2800015770383,
+        "magnitude_root_value": 578.2845320428345,
+        "magnitude_key_value": 176.0454486773231,
+        "angle_degrees_key": 73.74431317367781,
+        "angle_degrees_value": 56.63968871512979,
+        "cosine_angle_key_value": 0.9997418355449428,
+        "sine_angle_key_value": 0.022721405353291504
+    }
+}
