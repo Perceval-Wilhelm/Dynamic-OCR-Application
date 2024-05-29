@@ -5,6 +5,7 @@ The Dynamic OCR project: A program that reads information of any kind of image.
 
 
 ## REQUIREMENTS (TESTED)
+- CUDA 11.8
 - Ubuntu 20.04 LTS
 - Python 3.8.18
 - FastAPI
@@ -59,7 +60,7 @@ The Dynamic OCR project: A program that reads information of any kind of image.
 ## HOW TO RUN
 ### Run API server:
 '''
-streamlit run dynamic_ocr_app.py
+streamlit run main.py
 '''
 
 ## BACKLOG
