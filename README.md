@@ -55,9 +55,6 @@ The Dynamic OCR project: A program that reads information of any kind of image.
         '''
         pip install -r requirements.txt
         '''
-    4. Download the models:
-        Go to "model" directory, click the OneDrive url/link in the README.md file and download all the models available in OneDrive folder. After that, put all the download content back into the "model" folder.
-
 
 ## HOW TO RUN
 ### Run API server:
