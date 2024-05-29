@@ -48,20 +48,20 @@ The Dynamic OCR project: A program that reads information of any kind of image.
         ```
 
     2. Activate environment
-        '''
+        ```
         conda activate "name environment"
-        '''
+        ```
 
     3. Install library:
-        '''
+        ```
         pip install -r requirements.txt
-        '''
+        ```
 
 ## HOW TO RUN
 ### Run API server:
-'''
+```
 streamlit run main.py
-'''
+```
 
 ## BACKLOG
 ## FURTHER IMPROVEMENT
