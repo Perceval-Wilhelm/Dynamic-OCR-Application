@@ -67,6 +67,4 @@ streamlit run dynamic_ocr_app.py
 
 ## BACKLOG
 ## FURTHER IMPROVEMENT
-## Deployment
-### Production
 Packaging to Docker
