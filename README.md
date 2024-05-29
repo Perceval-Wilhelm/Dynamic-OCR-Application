@@ -43,9 +43,9 @@ The Dynamic OCR project: A program that reads information of any kind of image.
 ## INSTALLATION
 - If using GPU, comment line 12 in requirements.txt and uncomment line 14. 
     1. Create virtual environment in anaconda:
-        '''
+        ```
         conda create --name "name environment" python=3.8.18
-        '''
+        ```
 
     2. Activate environment
         '''
